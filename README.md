@@ -18,7 +18,7 @@ This is a quickstart template for those who want to quickly get started with dev
 ### How to run this?
 + Download the zip and extract it
 + Open the project folder in a terminal
-+ Do `$ npm install` in **root** of the project as well as in ***/client* **to get all dependencies
++ Do `$ npm install` in **root** of the project as well as in **client** to get all dependencies
 + Open a new Ethereum workspace in Ganache
 + Go back to your terminal and then enter `$ truffle migrate` to compile our Smart Contracts and get their ABI files
 + Add Ganache in your MetaMask networks and import your Ethereum account in it
@@ -28,6 +28,6 @@ This is a quickstart template for those who want to quickly get started with dev
 
 This template was created to help out new developers that are just entering the solidity dapp development and have very little knowledge about creating projects with truffle and React. Its nowhere near a beautiful application or a very function rich experience.
 
-##### Remember, this is just a blank drawing board for you to start off with!
+#### Remember, this is just a blank drawing board for you to start off with!
 
 ------------
